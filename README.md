@@ -163,7 +163,7 @@ Responsive & clean UI	✅
 
 🤖 Gen AI Tool Usage
 This project was built with active help from ChatGPT, including:
-
+https://chatgpt.com/c/683c57f8-bd64-800a-b09e-b00b266fe6b6
 Firebase + Next.js integration strategies
 
 JWT handling and frontend/backend token flow
